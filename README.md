@@ -1,1 +1,1 @@
-In this project, we will implement sequence to sequence neural machine translation model with attention mechanism. The NLP attention model which we train will translate Italian to English. The data for this project can be downloaded from this link https://www.manythings.org/anki/
+In this project, we will implement sequence to sequence neural machine translation model with Bahdanau attention mechanism. The NLP attention model which we train will translate Italian to English. The data for this project can be downloaded from this link https://www.manythings.org/anki/
